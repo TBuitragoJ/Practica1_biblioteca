@@ -246,6 +246,8 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 **Tomás Buitrago** - [TBuitragoJ](https://github.com/TBuitragoJ)
 
+**Emmanuel Cardona** - [EmmanuelCard](https://github.com/EmmanuelCard)
+
 ---
 
 ¿Encontraste útil este proyecto? ¡Dale una ⭐ en GitHub!
