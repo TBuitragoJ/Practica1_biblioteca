@@ -2,6 +2,15 @@
 
 Un sistema completo de gestión de préstamos de biblioteca desarrollado en Haskell funcional que permite administrar un catálogo de 50 libros organizados por géneros.
 
+---
+
+## 🤖 Notas de desarrollo y herramientas utilizadas
+
+- El desarrollo del código fuente se realizó utilizando **IntelliJ IDEA** como entorno principal de programación.
+- Se utilizó **Claude** (IA) para asistir en la subida del código al repositorio y en la creación de este README.
+
+---
+
 ## 🚀 Características
 
 - **Catálogo de 50 libros** distribuidos en 5 géneros
