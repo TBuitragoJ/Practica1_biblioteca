@@ -252,7 +252,7 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ## 🎬 Video demostrativo
 
-Puedes ver una demostración del sistema aquí: en proceso....
+Puedes ver una demostración del sistema aquí: (https://youtu.be/XMNiPv5GqDI?si=MqjZq2QVyjabcwhu)
 
 
 ---
